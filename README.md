@@ -1,0 +1,2 @@
+# sharedproject
+Just for testing
